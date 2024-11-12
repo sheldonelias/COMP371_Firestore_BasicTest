@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49461042438",
+    "project_id": "comp371-firestore-basictest",
+    "storage_bucket": "comp371-firestore-basictest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49461042438:android:10cd407f7604dc5b23d287",
+        "android_client_info": {
+          "package_name": "com.example.comp371_firestore_basictest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlQ2pz3dQ3vULF1JEDuo2_YKwYkvfC9qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
